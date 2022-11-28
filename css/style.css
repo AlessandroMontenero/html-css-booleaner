@@ -55,14 +55,22 @@ th {
     color: white;
     font-size: 0.8rem;
     text-align: left;
+    width: 10rem;
 }
 
 thead {
     background-color: rgb(66, 168, 228);
 }
 
-.aqua {
-    color: rgb(182, 229, 242);
+tr.aqua {
+    background-color: rgb(182, 229, 242);
 }
 
+footer {
+    margin-top: 2rem;
+}
+
+footer img {
+    width: 25%;
+}
 
