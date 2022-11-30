@@ -73,14 +73,9 @@ thead {
     width: 50%;
 }
 
-tr.aqua {
+tbody tr:nth-of-type(odd) {
     background-color: rgb(182, 229, 242);
 }
-
-tr.white {
-    background-color: white;
-}
-
 footer {
     margin-top: 2rem;
 }
